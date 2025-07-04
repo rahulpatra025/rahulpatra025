@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rahulpatra025
-- 👀 I’m interested in ...cripto
-- 🌱 I’m currently learning ...stockmarket
-- 💞️ I’m looking to collaborate on ...airdrop
+# 👋 Hi, I’m @rahulpatra025
+# 👀 I’m interested in ...web dev
+# 🌱 I’m currently learning ...react
+# 💞️ I’m looking to collaborate on ...airdrop
 
 
 <!---
